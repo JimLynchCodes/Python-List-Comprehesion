@@ -22,7 +22,7 @@ Run the code [here](https://repl.it/@JimLynch/Python-List-Comprehesion)!
 
 Notice how in the regular for loop method we first write the looping logic (for x in nums) and then the code to execute for each iteration (x * 2).
 
-Notice how the list comprehension just reverses the order of the two and puts them on the same line!
+Notice how the list comprehension just reverses the order of the two and puts them on the same line, automatically sticking the results of each iteration the empty array.
 
 So, if you didn't fully understand Python's list comprehesions before, hopefully this helps you! abs
 
